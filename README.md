@@ -1,4 +1,4 @@
-This movie search app: You need to sign up for API key from 
+Movie search app - You need to sign up for API key from 
 https://www.themoviedb.org.  Then you can request API key from https://www.themoviedb.org/settings/api
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
