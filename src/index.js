@@ -18,11 +18,11 @@ import SearchMovies from './searchMovies'
 // Learn more about service workers: https://bit.ly/CRA-PWA
 // serviceWorker.unregister();
 
-class Main extends React.Component {
+class App extends React.Component {
   render() {
     return (
       <div className="container">
-       <h1 className="title">React Movie Search</h1>
+       <h1 className="title">Movie Search</h1>
        <SearchMovies/>
       </div>
       
@@ -30,4 +30,4 @@ class Main extends React.Component {
   }
 }
 
-ReactDOM.render(<Main />, document.getElementById('root'))
+ReactDOM.render(<App />, document.getElementById('root'))
